@@ -1,0 +1,32 @@
+.title {
+  font-weight: bolder;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.form-input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.form-input input {
+  width: 170px;
+}
+
+.form-input select {
+  width: 178px;
+}
+
+.form-input span {
+  margin-right: 10px;
+  width: 100px;
+  text-align: center;
+}
+
+.connect-button {
+  margin-bottom: 60px;
+  text-align: center;
+}

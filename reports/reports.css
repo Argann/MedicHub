@@ -1,0 +1,10 @@
+.title {
+  font-size: large;
+  font-weight: bold;
+}
+
+.horizontal-bar-notes {
+  margin-bottom: 50px;
+  border-bottom: solid 2px grey;
+  width: 200px;
+}

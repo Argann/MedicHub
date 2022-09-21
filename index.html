@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>MedicHub - Connexion</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="stylesheet" href="/index.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="navbar">
+        <h1>MedicHub</h1>
+        <small>Votre santé, notre priorité</small>
+      </div>
+      <div class="horizontal-bar"></div>
+      <div class="title">Se connecter</div>
+      <div class="form-input">
+        <span> Identifiant </span>
+        <input type="text" value="EMONDAL-1" />
+      </div>
+      <div class="form-input">
+        <span> Mot de passe </span>
+        <input type="password" value="abc123456" />
+      </div>
+      <div class="form-input">
+        <span> Secteur </span>
+        <select disabled>
+          <option>EUROPA-2</option>
+        </select>
+      </div>
+      <div class="connect-button">
+        <button
+          id="connect-button"
+          onclick="location.href='/dashboard/dashboard.html';"
+        >
+          Se connecter
+        </button>
+      </div>
+      <div class="horizontal-bar"></div>
+    </div>
+  </body>
+</html>

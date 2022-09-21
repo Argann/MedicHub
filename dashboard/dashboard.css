@@ -1,0 +1,25 @@
+.title {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.news {
+  margin-bottom: 5px;
+}
+
+.reports table {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.reports th,
+td {
+  padding: 5px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
