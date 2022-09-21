@@ -1,3 +1,3 @@
-# web-platform-4dganj
+# MedicHub
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-4dganj)
+Ceci est le code source d'un petit projet de site narratif créé pour un exercice d'écriture sur le thème de la mémoire.
